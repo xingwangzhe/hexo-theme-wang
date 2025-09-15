@@ -8,7 +8,7 @@ hexo-theme-wang
 
 i18n:zh-CN,zh-TW,zh-HK,en
 
-我的站点:[https://xingwangzhe.fun](https://xingwangzhe.fun)
+我的站点:[https://xingwangzhe.fun](https://xingwangzhe.fun) | 现在已经不使用这个主题了，改成我的另一个主题[stalux](https://github.com/xingwangzhe/stalux),演示站点在[https://stalux.needhelp.icu/](https://stalux.needhelp.icu/)
 
 ## 在此感谢
   [Copilot](https://github.com/features/copilot)提供的样式帮助
